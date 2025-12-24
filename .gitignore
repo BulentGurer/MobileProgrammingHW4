@@ -50,12 +50,3 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-# Flutter example folder platforms
-/android/
-/ios/
-/macos/
-/windows/
-/web/
-/linux/
-/build/
-/test/
