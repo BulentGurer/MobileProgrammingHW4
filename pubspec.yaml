@@ -1,0 +1,26 @@
+name: hw04
+description: "A Flutter store product management application with barcode scanning"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.6.1 <4.0.0"
+  flutter: ">=3.18.0"
+
+dependencies:
+  cupertino_icons: ^1.0.8
+  flutter:
+    sdk: flutter
+  path: ^1.9.0
+  provider: ^6.1.1
+  sqflite: ^2.3.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  pubspec_dependency_sorter: ^1.0.5
+  very_good_analysis: ^7.0.0
+
+flutter:
+  uses-material-design: true
+
